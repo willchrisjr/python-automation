@@ -1,0 +1,3 @@
+# Requirements for the project
+
+This file should contain all the necessary packages and libraries needed to run your Python automation scripts.
